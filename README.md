@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gusofwind
+- 👋 Hi, I’m @NotBorninAugust
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Java
 - 💞️ I’m Currently attending Millersville University for Computer Science
